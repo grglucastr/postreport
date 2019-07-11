@@ -1,0 +1,4 @@
+O que deve ser entregue:
+ - Documento Modelo de Projeto Arquitetural totalmente preenchido e com a profundidade adequada, conforme modelo fornecido
+
+ - Prova de conceito (protótipo arquitetural) da arquitetura que contemple a implementação de pelo menos três casos de uso críticos para a arquitetura do sistema

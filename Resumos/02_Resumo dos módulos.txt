@@ -1,0 +1,40 @@
+1) Gerenciar ativos:
+ - [CRUD] Manter dados dos ativos da empresa
+ - [CRUD] Gestão e controle de manutenções preventivas e corretivas de acordo com cronograma da empresa e das áreas de engenharia
+ - Prover integração com o sistema de aquisições (não contemplado nesse módulo)
+
+2) Controle de Processos Minerários:
+ - Módulo que permite a exploração das minas de maneira coordenada, eficiente e ambientalmente responsável
+ - Workflow, checklist ou lista de atividades diárias programadas para realização da exploração das minas
+ - Registrar as paradas e problemas com a produção diária, registradas por turno de trabalho
+ - Utilizar qualquer ferramenta BPM para modelagem de processos 
+
+3) Monitoramento de Barragens
+ - Módulo Web/Mobile integrado com sensores nas barragens
+ - Monitoramento de risco realizador por consultores contrados
+ - Aciona o módulo de Segurança e Comunicação
+ - Utilizado pelos engenheiros da empresa
+ - Interliga com a Defesa Civil municipais e estaduais (não contempla o escopo do projeto)
+
+4) Segurança e Comunicação
+ - Gerencia as comunidades entorno das barragens
+ - Emite alerta em caso de procedimentos de evacuação
+ - Integra com o módulo Monitoramento de Barragens onde:
+   - Níveis de controle e segurança são definindos em tempo real por esse este
+
+5) Inteligência do negócio
+ - Utliza dados dos outros módulos para gerar informações sobre insumos, produção, eventos anormais
+ - Repassar as informações para o sistema de monitoramento
+ - Utlizar tecnologia para tratamento de big data e BI para permitir tomadas de decisão quando necessário
+
+6) Compliance
+ - Integra sistemas externos de Normas Ambientais e Assessorias e Consultorias
+ - Garante a empresa aderência às normas nacionais e internacionais do extrativismo mineral
+ - Auxilia no aprimoramento de controles de governança
+ - Ferramentas para acesso a esses sistemas externos via APIs
+
+7) Relatórios de acompanhamento
+ - Gerar relatórios sob demanda para acompanhar a real situação da empresa
+ - Provido por gerador de relatório terceirizado, obtido no mercado
+ - Permite aos usuários gerarem saídas que desejarem de acordo com seu perfil
+

@@ -1,0 +1,21 @@
+O objetivo geral deste projeto é apresentar uma proposta de arquitetura para gerenciar procesos de extrativismo realizados por empresas mineradoras, proporcionando um suporte aos engenheiros e demais profissioanis atuantes no processo extração mineral. O projeto visa atender e facilitar a gerencia de ativos da empresa, monitoramento de barragens e de fluxos de extração minérios, devendo também interligar-se com a Defesa Civil a fim de manter a segurança e monitoramento das comunidades localizadas próximas às barragens, além de, garantir seu alinhamento junto às normas nacionais e internacionais relacionadas ao meio-ambiente e consultorias para aprimoramento de controle de governança integrando-se com sistemas externos que fornecem esse tipo de serviço.
+
+
+integrar-se com outros sistemas que provisionam Normas Ambientais e Assessorias e consultorias de modo que a empresa se mantenha alinhada com as normas nacionais e internacionais de extrativismo.
+
+
+proporcionar monitoramentos em barragens bem como os seus processos de extração mineral, além de, monitorar a comunicação e segurança com as comunidades residentes próximas às barragens. Para isso, o sistema integra 
+
+
+atuantes no setor de  mineral
+
+- Controlar os ativos
+- Monitorar os processos de extração
+- Monitorar as barragens
+
+- Monitorar a comunicação e segurança com as comunidades
+- Compliance com as normas nacionais e internacionais
+- Relatórios para tomadas de decisão
+
+- Relatórios sob demanda de estado da empresa
+

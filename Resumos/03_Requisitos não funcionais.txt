@@ -1,0 +1,13 @@
+- Suportar ambientes web e móveis
+- Ser de fácil utilização
+- Possuir bom desempenho
+- Ser de fácil manutenção
+- Ser passível de ser testado em todas as funcionalidades
+- Ser confiável e robusto, se recuperando no caso da ocorrência de erro
+- Se comunicar com sistemas externos via APIs de integração
+- Aprensentar segurança adequada à atividade, que é de alto risco
+- Estar disponível 24 horas por dia sete dias da semana
+- Ser desenvolvido utilizando recursos de integração contínua
+
+OBS.: alguns itens aqui apresentados são expressões utilizadas pela área usuária. A definição real do
+requisito deve ser expressa de forma que ele seja mensurável.
