@@ -1,0 +1,43 @@
+1) Módulo de Equipamentos
+
+ .Gerenciar Equipamentos e Maquinários
+  O sistema deve permitir que os usuários mantenham os dados dos ativos ligados à atividade de mineração, isto é, máquinas e equipamentos. O usuário poderá adicionar, visualizar e atualizar as informações sobre esses insumos, a fim de auxiliar a equipe técnica ter uma previsão do momento em que os equipamentos poderão apresentar falhas, proporcionando uma parada programada para reparos.
+
+ .Manter Cronograma de manutenção preventiva
+  O sistema deve permitir aos técnicos e engenheiros gerenciarem cronogramas para a realização de manutenção preventiva para evitar perdas de tempo associadas a paradas dos equipamentos. Nesta etapa, o sistema deve permitir aos usuários agendar e visualizar datas para a realização das manutenções.  
+
+2) Módulo de Gestão de Processos
+   . Cadastrar Atividades
+    O sistema deve permitir aos técnicos e demais profissionais que atuam diretamente com a exploração das minas cadastrarem suas atividades diárias. A fim de se obter um fluxo de trabalho diário, é importante que o sistema permita que o cadastro dessas atividades seja de forma encadeada, pois se torna mais fácil o acompanhamento e progresso das mesmas.
+
+   . Atualizar do progresso das atividades
+   O sistema deve permitir que os técnicos atualizem o progresso de suas atividades assim que as mesmas são concluídas e também adicione evidências se assim achar necessário.
+   
+   . Registrar de falhas
+   O sistema deve permitir que os técnicos registrem falhas e paradas durante a execução de determinada atividade e também adicione evidências se assim achar necessário.
+
+   . Acompanhar de Atividades
+    O sistema deve permitir aos técnicos visualizarem o progresso de suas atividades a medida que as mesmas vão sendo concluídas. 
+    Engenheiros e corpo gestor, podem visualizar o progresso de atividades de um ou mais técnicos bem como o registro de falhas se houverem, ou seja, o sistema deve permir para essa categoria de usuários uma visão completa do progresso de exploração das minas.
+
+3) Módulo de Monitoramento de Barragens
+   . Cadastrar Barragens
+    Para poder realizar o monitoramento das barragens é necessário, primeiramente, ter o cadastro delas no sistema. Para isso, o usuário poderá inserir, visualizar e alterar informações sobre as barragens que sua empresa é responsável.
+
+   . Monitorar as barragens
+    O sistema deve exibir informações analíticas a respeito dos dados que os sensores enviam, agrupadas por cada tipo de informação que cada sensor é responsável por coletar, tais como: pressão da água, umidade, trincas etc. Isso permitirá ao técnicos e engenheiros planejarem a manutenção das barragens.
+
+   . Cadastrar parâmetros de riscos
+   O sistema deve oferecer ao usuário, uma tela onde seja possível ele controlar todos os níveis de risco. De acordo com cada sensor, o usuário poderá informar ao sistema um valor limite que caso seja ultrapassado, deverá acionar o módulo de comunicação e segurança.
+
+
+	
+4) Módulo de comunicação e segurança 
+   . Enviar alertas
+   O
+    O sistema deve armazenar algumas informações siobre
+ - Cadastro das famílias que moram nas comunidades próximas
+ - Sistema de alerta via mensagens SMS, e-mails, transmissões no rádio no caso de evacuação
+
+
+
